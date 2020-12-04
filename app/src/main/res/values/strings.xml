@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BroadcastReceiverExample</string>
+    <string name="button1">send implicit reg in manifest</string>
+    <string name="button2">send explicit reg in manifest</string>
+    <string name="button3">send implicit local in code</string>
+    <string name="button4">send explicit local in code</string>
+    <string name="button5">send implicit reg in code</string>
+    <string name="button6">send explicit reg in code</string>
+</resources>
